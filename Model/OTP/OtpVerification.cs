@@ -1,6 +1,6 @@
 namespace EziLanguages.Model
 {
-    public class OTPVerification
+    public class OtpVerification
     {
         public int OTPId { get; set; }
         public int UserId { get; set; }
